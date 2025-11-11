@@ -1,4 +1,4 @@
-# OcNOS Ansible Playbooks (Release: <VERSION>)
+# OcNOS Ansible Playbooks (Release: OcNOS-SP-6.0.0)
 
 ## Overview
 This repository contains **validated and production-ready** Ansible playbooks, roles, and supporting Python modules for configuring and managing OcNOS-based network devices.
@@ -12,7 +12,7 @@ Only playbooks that have been **tested and verified** are published under the co
 
 | Item | Details |
 |------|---------|
-| **OcNOS Release Version** | <VERSION> |
+| **OcNOS Release Version** | <OcNOS-SP-6.0.0> |
 | **Date Last Tested**      | <YYYY-MM-DD> |
 | **Tested By**             | <Team / Engineer Name> |
 | **Validation Environment**| <Lab / Customer / Simulation> |
@@ -39,4 +39,5 @@ Only playbooks that have been **tested and verified** are published under the co
 ---
 
 ## Notes
-
+* OcNOS-6.0.0 release  ansible scripts are copied to OcNOS-6.X.X release branches 
+* Update the validated,tested & approved ansible scripts aligned with release specific versions
